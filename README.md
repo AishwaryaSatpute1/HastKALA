@@ -3,6 +3,7 @@ E-commerce Website
 
 
 A brief description of what this project does and who This Project Was Part of Course Project - HASTKALA 
+Problem Statment Inspired from "Smart India HAckthon 2022"
 
 ![](https://github.com/AishwaryaSatpute1/HastKALA/blob/main/Banner1.png)
 
@@ -20,6 +21,8 @@ A brief description of what this project does and who This Project Was Part of C
  ## Objective
  To promote the Indian handicraft industry globally.
 Providing a common platform to make, market, and sell high-quality handicrafts and goods
+
+
 ![](https://github.com/AishwaryaSatpute1/HastKALA/blob/main/banner4.png)
 
 
