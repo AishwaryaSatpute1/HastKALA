@@ -33,21 +33,35 @@ HTML, CSS, Bootstrap, Javascript
 PHP
 MYSQL Database
 
+## Home Page 
+ ![](https://github.com/AishwaryaSatpute1/HastKALA/blob/main/Home%20%20SS.jpg)
 ## Features
+
 ## 1 ) Sign up:
  This refers to registering as a customer or vendor. The registered member has a lot of privileges associated with the shop when one becomes a customer or vendor
+ ![](https://github.com/AishwaryaSatpute1/HastKALA/blob/main/Registartion%20Page%20SS.jpg)
+ 
+ 
 ## 2) Login: 
 After the user has registered, the user becomes a customer or vendor and he and she can log in with their personal information.
+ ![](https://github.com/AishwaryaSatpute1/HastKALA/blob/main/login%20Page%20SS.jpg)
+
 
 ## 3) Customer login:
  In case of customer login he or she gets privileges such as buy product, update cart, add payment details and delivery details etc.
+ ![](https://github.com/AishwaryaSatpute1/HastKALA/blob/main/Product%20Page%20SS.jpg)
+ ![](https://github.com/AishwaryaSatpute1/HastKALA/blob/main/slider%20Page%20SS.jpg)
+
 
 ## 4) Admin login:
 In case of admin login the admin can take some action such as add/remove customer, add/remove vendor, add/remove product, see orders and comment and suggestion of users. 
+
+
 ## 5)Payment:
 Payment is the final stage of any shopping website. The customer who is satisfied with their choice of product and price can now pay with card and cash on delivery. 
 
-
+ ![](https://github.com/AishwaryaSatpute1/HastKALA/blob/main/shopping%20cart%20SS.jpg)
+ ![](https://github.com/AishwaryaSatpute1/HastKALA/blob/main/Footer%20SS.jpg)
 
 ## Basic Outline
 1. Index page : Navigation through menu
